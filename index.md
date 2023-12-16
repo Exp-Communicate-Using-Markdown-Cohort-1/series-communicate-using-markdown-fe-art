@@ -7,3 +7,8 @@
 [ ] Headers
 [X] imgs
 [ ] Sasuke
+
+```
+$ npm start
+Start your project or smth
+```
