@@ -8,3 +8,7 @@ Successfully hacked NASA's server
 $ mysql -c "drop db"
 Successfully hacked NASA's server
 ```
+
+- [ ] Buy Ketchup
+- [X] Sell drugs to an orphanage
+- [ ] Introduce myself to the world
