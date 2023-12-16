@@ -4,3 +4,7 @@
 $ mysql -c "drop db"
 Successfully hacked NASA's server
 ```
+```
+$ mysql -c "drop db"
+Successfully hacked NASA's server
+```
